@@ -1,5 +1,4 @@
 # dti_demos
-dti_demos for Northeastern
 
 This is your README. It will tell you what to do. When in doubt,
 always look at the README!
